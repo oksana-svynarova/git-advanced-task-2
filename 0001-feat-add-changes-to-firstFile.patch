@@ -1,0 +1,27 @@
+From 32089cfea7a746671edcdb2f0508d8278298da55 Mon Sep 17 00:00:00 2001
+From: Oksana Svynarova <70812915+oksana-svynarova@users.noreply.github.com>
+Date: Sun, 8 Mar 2026 17:42:41 +0200
+Subject: [PATCH] feat: add changes to firstFile
+
+---
+ firstFile.txt | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 745a33b..0e5a0b9 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -7,4 +7,7 @@
+ Люблю весну, коли плюскочуть ріки,
+ Коли рида од щастя соловей
+ І заглядає сонце під повіки
+-У тишині задуманих алей...
+\ No newline at end of file
++У тишині задуманих алей...
++
++Люблю, коли блукає місяць в травах,
++Хатини білить променем своїм
+\ No newline at end of file
+-- 
+2.50.0.windows.1
+
